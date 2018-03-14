@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.songdetailstart.content;
+package com.example.android.songdetail.content;
 
 import java.util.ArrayList;
 import java.util.List;

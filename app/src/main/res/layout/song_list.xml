@@ -67,7 +67,7 @@
         android:layout_marginRight="@dimen/standard_margin"
         android:layout_marginEnd="@dimen/standard_margin"
         app:layoutManager="LinearLayoutManager"
-        tools:context="com.example.android.songdetailstart.MainActivity"
+        tools:context="com.example.android.songdetail.MainActivity"
         tools:listitem="@layout/song_list_content" />
 
 </RelativeLayout>
